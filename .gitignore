@@ -1,2 +1,3 @@
 *.mod
 !ratereich.mod
+.DS_Store
